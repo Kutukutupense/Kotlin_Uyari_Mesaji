@@ -1,2 +1,3 @@
 # Kotlin_Uyari_Mesaji
- Toast and Alert Messages
+ Basitçe Toast ve Alert Mesajlarını Nasıl Kodlarız?
+ How Do We Code Simply Toast and Alert Messages?
